@@ -8,6 +8,8 @@ main:
     url: /phd_thesis/
   - title: "Life of a<br>researcher"
     url: /life_of_a_researcher/
+  - title: "Internship 2026"
+    url: /internship2026/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
