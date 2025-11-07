@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Iva Laginja"
   avatar           : "/assets/images/profile_pic.jpg"
-  bio              : "I'm a Croatian-Austrian astronomer and work on high-contrast imaging. I work as a CNES postdoctoral fellow at LESIA in Paris, France."
-  location         : "Paris, France"
-  email            : "iva.laginja@obspm.fr"
+  bio              : "I'm a Croatian-Austrian astronomer and work on high-contrast imaging. I am a CNRS associate researcher at Laboratoire Lagrange, Université de la Côte d'Azur in Nice, France."
+  location         : "Nice, France"
+  email            : "iva.laginja@oca.eu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
